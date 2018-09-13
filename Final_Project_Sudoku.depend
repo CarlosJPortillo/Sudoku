@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1463027355 source:c:\users\alternative17\documents\final_project_sudoku\main.c
+	"SudokuComponents.h"
+
+1463077859 c:\users\alternative17\documents\final_project_sudoku\sudokucomponents.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SudokuStructs.h"
+
+1463027355 source:c:\users\alternative17\documents\final_project_sudoku\sudokucomponents.c
+	"SudokuComponents.h"
+
+1463012960 c:\users\alternative17\documents\final_project_sudoku\sudokustructs.h
+
+1463078161 source:c:\users\carlos\documents\c programming\final_project_sudoku\main.c
+	"SudokuComponents.h"
+
+1463078135 c:\users\carlos\documents\c programming\final_project_sudoku\sudokucomponents.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SudokuStructs.h"
+
+1463078148 c:\users\carlos\documents\c programming\final_project_sudoku\sudokustructs.h
+
+1536875981 source:c:\users\carlos\desktop\portfolio\final_project_sudoku\main.c
+	"SudokuComponents.h"
+
+1463078135 c:\users\carlos\desktop\portfolio\final_project_sudoku\sudokucomponents.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SudokuStructs.h"
+
+1463078148 c:\users\carlos\desktop\portfolio\final_project_sudoku\sudokustructs.h
+
+1488684573 source:c:\users\carlos\desktop\portfolio\final_project_sudoku\sudokucomponents.c
+	"SudokuComponents.h"
+
